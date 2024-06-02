@@ -1,0 +1,10 @@
+matplotlib
+pandas
+smtplib
+email
+os
+json
+tkinter
+Pillow
+platform
+ctypes
