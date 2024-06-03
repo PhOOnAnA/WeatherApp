@@ -1,7 +1,9 @@
 # ***WeatherApp***
-> <!--[!NOTE]-->
 >API based code for a Weather Software (Python)
->>Feel free to explore all the options that our software provides and use it as you like :D
+
+
+>[!NOTE]
+>Feel free to explore all the options that our software provides and use it as you like :D
 
 
 
