@@ -12,5 +12,7 @@
 
 # Honorable mentions
 >[GeeksForGeeks](https://www.geeksforgeeks.org)
+>
 >[Reddit](https://www.reddit.com)
+>
 >User [rdbende](https://github.com/rdbende) on GitHub for [Azure](https://github.com/rdbende/Azure-ttk-theme) tkinter theme
